@@ -1,0 +1,25 @@
+Sunny
+Mostly Sunny
+Party Cloudy
+Mostly Cloudy
+Chance of Storm
+Rain
+Chance of Rain
+Chance of Snow
+Cloudy
+Mist
+Storm
+Thunderstorm
+Chance of Thunderstorm
+Sleet
+Snow
+Icy
+Dust
+Fog
+Smoke
+Haze
+Flurries
+Overcast
+Light snow
+Light rain
+Clear
